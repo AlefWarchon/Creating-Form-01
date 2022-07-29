@@ -1,19 +1,19 @@
 ## Creating-Forms-01
 <h3 align="center">The objective</h3>
 
-<p align="start">
-The idea of creating this form was for further learning, reviewing and applying new concepts
-<br/>
-This form was created from zero based on figma and without consultation
-<br/>
-I tried to be as close as possible to figma
-<br/>
-It was also implemented a better accessibility by darkening what didn't have the ideal contrast when you put the mouse on top of it
-<br/>
-Only one input had minimum mandatory characters and the minlength was added then only on it.
-<br/>
-No input with mandatory requirement added to not mess up the layout too much, but you can get a sense of input:invalid with the minLenght input applied
-</p>
+> <p align="start">
+> The idea of creating this form was for further learning, reviewing and applying new concepts
+> <br/>
+> This form was created from zero based on figma and without consultation
+> <br/>
+> I tried to be as close as possible to figma
+> <br/>
+> It was also implemented a better accessibility by darkening what didn't have the ideal contrast when you put the mouse on top of it
+> <br/>
+> Only one input had minimum mandatory characters and the minlength was added then only on it.
+> <br/>
+> No input with mandatory requirement added to not mess up the layout too much, but you can get a sense of input:invalid with the minLenght input applied
+> </p>
 
 <hr/>
 
