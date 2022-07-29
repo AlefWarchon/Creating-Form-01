@@ -75,7 +75,7 @@ fieldset {
   margin-top: 8px;
 }
 
-#legend-one, #legend-two, #legend-three {
+#legend-one, #legend-two {
   font-family: 'Staatliches', cursive;
   font-style: normal;
   font-weight: 400;
@@ -144,11 +144,6 @@ input {
   margin-bottom: 32px;
 }
 
-#legend-three {
-  padding-bottom: 8px;
-  margin-bottom: 32px;
-}
-
 h2 {
   font-family: 'Staatliches', cursive;
   font-style: normal;
@@ -167,7 +162,7 @@ h2 {
   margin-top: 16px;
 }
 
-.triple-box, .secondtriple-box {
+.triple-box {
   display: flex;
   gap: 10px;
 }
@@ -177,15 +172,6 @@ h2 {
 }
 
 .triple-box > div:first-child {
-  width: 300px;
-  margin-right: 22px;
-}
-
-.secondtriple-box div {
-  width: 140px;
-}
-
-.secondtriple-box > div:first-child {
   width: 300px;
   margin-right: 22px;
 }
