@@ -21,6 +21,8 @@ No input with mandatory requirement added to not mess up the layout too much, bu
 
 <img src="./assets/figma.png" />
 
+<br/>
+
 <sup>Figma link:</sup>	
 <br/>	
 <a href="https://www.figma.com/file/ZWtnunlEPuvPRkWtpILSrh/Stage-03-Formul%C3%A1rio-intermedi%C3%A1rio-Copy?fuid=1130144160993271217"> <img width="40px" src="./assets/figmaicon.png" />
