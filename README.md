@@ -15,21 +15,30 @@ No input with mandatory requirement added to not mess up the layout too much, bu
 
 <hr/>
 
-<p align="center">
+<div align="center">
+
+<h3>Figma</h3>
+
+<img src="./assets/figma.png" />
+
 <sup>Figma link:</sup>	
 <br/>	
 <a href="https://www.figma.com/file/ZWtnunlEPuvPRkWtpILSrh/Stage-03-Formul%C3%A1rio-intermedi%C3%A1rio-Copy?fuid=1130144160993271217"> <img width="40px" src="./assets/figmaicon.png" />
 </a>
 <br/>
-<sub><b>This layout application was based on this project figma above</b></sub>
+<sub><b>The form was based on this figma project above</b></sub>
 <br/>	
-</p>
+</div>
 
 <hr/>
+
+<div align="center">
 
 <h3 align="center">Created form!</h3>
 
 <img src="./assets/p3final.png" />
+
+</div>
 
 <hr/>
 
