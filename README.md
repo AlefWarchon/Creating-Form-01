@@ -1,7 +1,7 @@
 ## Creating-Forms-01
 <h3 align="center">The objective</h3>
 
-<p align="center">
+<p align="start">
 The idea of creating this form was for further learning, reviewing and applying new concepts
 <br/>
 This form was created from zero based on figma and without consultation
