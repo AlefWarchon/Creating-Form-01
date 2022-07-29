@@ -6,6 +6,8 @@ The idea of creating this form was for further learning, reviewing and applying 
 <br/>
 This form was created from zero based on figma and without consultation
 <br/>
+I tried to be as close as possible to figma
+<br/>
 It was also implemented a better accessibility by darkening what didn't have the ideal contrast when you put the mouse on top of it
 <br/>
 Only one input had minimum mandatory characters and the minlength was added then only on it.
