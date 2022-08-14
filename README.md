@@ -42,7 +42,7 @@ No input with mandatory requirement added to not mess up the layout too much, bu
 
 <div>
 <h2>Page Preview :mag:</h2>
-<h3>Link preview: <a href="https://alefwarchon.github.io/Creating-Form-01-/">Creating Form 1<a/></h3>
+<h3>Link preview: <a href="https://alefwarchon.github.io/Creating-Form-01/">Creating Form 1<a/></h3>
 </div>
 
 
@@ -54,7 +54,4 @@ No input with mandatory requirement added to not mess up the layout too much, bu
 <h3>Alef Warchon</h3>
 <a href="https://www.linkedin.com/in/alef-warchon-400571245/" target="_blank"><img 
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
-<a href="https://www.youtube.com/channel/UC8NcQCGYRvwA5iB7lIy7rCg" target="_blank"><img 
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
 </a>
